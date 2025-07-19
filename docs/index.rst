@@ -2,15 +2,14 @@ Step-by-Step Guide to the $5,000 Mortgage Assistance Program
 =============================================================
 
 .. meta::
-   :msvalidate.01: BFF40CA8D143BAFDF58796E4E025829B
-   :google-site-verification: VD279M_GngGCAqPG6jAJ9MtlNRCU9GusRHzkw__wRkA
+   :msvalidate.01: 496FB76CB4BF986B84B3D95879586D39
+   :google-site-verification: A_NQsyCuasCJRK7IhYwTsyZ9qBh4bGquPfK0_6sAXkk
    :description: Discover how to apply for the $5,000 Mortgage Assistance Program in 2025. Follow this secure, step-by-step guide to reduce your housing burden with government support.
 
 .. image:: Enter_Product_Key.png
    :width: 350px
    :align: center
    :height: 100px
-   :alt: $5,000 Mortgage Assistance
    :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-get-benefit-from-5000-mortgage-assistance-program%2F&sa=D&sntz=1&usg=AOvVaw3K_UUiUQwi615Cl2W4ecBn
 
 .. raw:: html
@@ -21,8 +20,7 @@ Step-by-Step Guide to the $5,000 Mortgage Assistance Program
 
    <div class="hero-banner">
      <div class="hero-overlay">
-       <h2 class="hero-heading">Get $5,000 Toward Your Mortgage in 2025</h2>
-       <a class="hero-button" href="https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-get-benefit-from-5000-mortgage-assistance-program%2F&sa=D&sntz=1&usg=AOvVaw3K_UUiUQwi615Cl2W4ecBn" target="_blank">Apply Now</a>
+       
      </div>
    </div>
 
