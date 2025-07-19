@@ -15,7 +15,7 @@ Step-by-Step Guide to the $5,000 Mortgage Assistance Program
 .. raw:: html
 
    <div class="site-header">
-     <div class="site-name">Mortgage Relief Services</div>
+     
    </div>
 
    <div class="hero-banner">
